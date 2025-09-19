@@ -17,9 +17,9 @@
 |----------------------------|-----------------|--------------------------|------------------|
 | 🔒 Penetration Testing     | 🤖 Machine Learning | 🐍 Python              |  🐍 Flask   |
 | 🛡️ Network Security       | 📊 Anomaly Detection |   🟨 JavaScript / TypeScript                | NestJS / Angular /React    |
-| 🐙 Docker                 | 🧠 Deep Learning   |💻 C++ |    🛠️ Git / GitHub / Agile |
+| 🐙 Docker                 | 🧠 Deep Learning   |💻 C++ |     |
 | ⚡ Kubernetes Security   | 📝 NLP Assistants (ShellGPT, LangChain) |🗄️ MySQL / PostgreSQL |  |
-| 📈 Prometheus Monitoring                            |                 |                          | |
+| 📈 Prometheus Monitoring                            |                 |                          | 🛠️ Git / GitHub / Agile|
 
 ---
 
