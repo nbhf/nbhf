@@ -27,7 +27,6 @@
 - **GitHub:** [nbhf](https://github.com/nbhf)  
 - **LinkedIn:** [Nour ElHouda Bhf](https://www.linkedin.com/in/nour-elhouda-bhf/)  
 - **Email:** houdabhf123@gmail.com  
-- **Phone:** +216 50 978 635  
 
 ---
 
