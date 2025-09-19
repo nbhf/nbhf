@@ -1,6 +1,9 @@
 # Nour ElHouda BelHadj Fredj
+![](https://komarev.com/ghpvc/?username=Nour-ElHouda-BelHadj-Fredj&color=green)
 
-**Computer Science Engineering** student passionate about **Cybersecurity** and **Artificial Intelligence**. Skilled in deploying secure systems, building ML models, and leveraging AI to enhance cybersecurity operations.  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Network+Engineer;CyberSecurity+and+AI+Enthusiast)](https://git.io/typing-svg)
+
+👋 Hi, I am Nour a **Computer Science Engineering** student passionate about **Cybersecurity** and **Artificial Intelligence**. Skilled in deploying secure systems, building ML models, and leveraging AI to enhance cybersecurity operations.  
 
 ---
 
