@@ -15,11 +15,11 @@
 
 | Cybersecurity & DevSecOps | AI & Data Science | Programming & Development | Tools & Frameworks |
 |----------------------------|-----------------|--------------------------|------------------|
-| 🔒 Penetration Testing     | 🤖 Machine Learning | 🐍 Python              | 🐙 Docker         |
-| 🛡️ Network Security       | 📊 Anomaly Detection | 💻 C++                 | ☸️ Kubernetes      |
-| ⚡ Kubernetes Security      | 🧠 Deep Learning   | 🟨 JavaScript / TypeScript | 🐍 Flask / NestJS / Angular / React |
-| 📈 Prometheus Monitoring    | 📝 NLP Assistants (ShellGPT, LangChain) | | 🗄️ MySQL / PostgreSQL |
-|                            |                 |                          | 🛠️ Git / GitHub / Agile |
+| 🔒 Penetration Testing     | 🤖 Machine Learning | 🐍 Python              |  🐍 Flask   |
+| 🛡️ Network Security       | 📊 Anomaly Detection | 💻 C++                 | NestJS / Angular      |
+| 🐙 Docker                 | 🧠 Deep Learning   | 🟨 JavaScript / TypeScript |   React |
+| ⚡ Kubernetes Security   | 📝 NLP Assistants (ShellGPT, LangChain) | | 🗄️ MySQL / PostgreSQL |
+| 📈 Prometheus Monitoring                            |                 |                          | 🛠️ Git / GitHub / Agile |
 
 ---
 
